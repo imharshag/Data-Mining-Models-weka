@@ -7,7 +7,7 @@
 This aims to explore different data mining techniques, such as classification, regression, clustering, and association rule mining, using datasets available in Weka. The models are trained and evaluated to gain insights into their performance and suitability for different types of data analysis tasks.
 
 ### 🔧 Download Weka
-   Download and install the Weka software from the [official website](https://www.cs.waikato.ac.nz/ml/weka/downloading.html).
+   Download and install the Weka software from the [Website](https://sourceforge.net/projects/weka/).
 
 ### 📖 Loading Pre-trained Models
 
