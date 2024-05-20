@@ -9,7 +9,12 @@ This aims to explore different data mining techniques, such as classification, r
 ### 🔧 Download Weka
    Download and install the Weka software from the [official website](https://www.cs.waikato.ac.nz/ml/weka/downloading.html).
 
-   ## Contributing
+### 📖 Loading Pre-trained Models
+
+1. ***Download Pre-trained Models***:
+   Download the pre-trained data mining models from the project repository.
+2. ***Load Model in Weka***:
+   In Weka, go to the "File" menu and select "Load Model." Navigate to the downloaded pre-trained model file in the project directory and select it.
 
 ### 🔧📝 Contributions are welcome!
 
