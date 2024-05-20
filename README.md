@@ -1,4 +1,3 @@
-# Data-Mining-Models-weka
 # Data Mining Models with Weka
 
 ### Introduction
