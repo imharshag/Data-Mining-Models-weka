@@ -14,7 +14,7 @@ This aims to explore different data mining techniques, such as classification, r
 1. ***Download Pre-trained Models***:
    Download the pre-trained data mining models from the project repository.
 2. ***Load Model in Weka***:
-   In Weka, go to the "File" menu and select "Load Model." Navigate to the downloaded pre-trained model file in the project directory and select it.
+   In Weka, go to the "File" menu and select "Load Model." Navigate to the downloaded pre-trained model file and select it.
 
 ### 🔧📝 Contributions are welcome!
 
